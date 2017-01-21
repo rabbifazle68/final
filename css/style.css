@@ -1,0 +1,173 @@
+body{
+	margin: 0;
+	padding: 0;
+	background: #FEFEFE;
+	width: 1600px;
+	font-size: 18px;
+
+
+}
+
+.container{
+
+
+    width: 80%;
+    margin: 0 auto;
+    overflow: hidden;
+}
+
+
+#header{
+	border-bottom: 1px solid #ccc3c3;
+}
+
+
+
+
+.top-header{
+	width:50%;
+	float:left;
+}
+
+.top-header ul{
+	overflow: hidden;
+	margin: 0;
+    padding: 0;
+}
+
+.top-header li{
+	    list-style: none;
+	     float: left;
+	         padding-left: 18px;
+
+}
+
+.top-header li img{
+	margin-right: 10px;
+}
+
+.top-header li h1{
+	color: #5f5353;;
+	    font-size: 26px;
+    margin: 0;
+    padding: 0;
+    text-transform: uppercase;
+    margin-top: 10px;
+}
+
+.header{
+padding: 20px 0;
+}
+
+.top-left-header{
+	width:50%;
+	float:left;
+}
+
+.top-left-header ul{
+	text-align: end; */
+    overflow: hidden;
+    margin: 0;
+    padding: 0;
+    margin-left: 364px;
+}
+
+.top-left-header li{
+	    float: left;
+	     list-style: none;
+	    
+}
+
+.top-left-header li:nth-child(2){
+
+}
+
+.top-left-header a{    
+ padding-left: 10px; }
+
+.top-left-header a:hover{
+
+	color: #00BBF5;
+}
+
+
+.main-menue{
+	margin-top: 10px;
+
+}
+
+.main-menue ul{
+	    margin: 0;
+    padding: 0;
+	
+}
+
+
+.main-menue li{
+	list-style: none;
+    float: left;
+}
+
+.main-menue a{
+	    text-transform: uppercase;
+    /* margin-left: 12px; */
+    padding-left: 20px;
+    text-decoration: none;
+    color: #5f5353;
+}
+	
+
+
+.main-menue a:hover{
+	color: #2DCC70;
+	
+}
+img{
+	max-width: 100%
+	width:100%;
+}
+
+.img{
+position: relative;
+}
+
+.img2{
+	    position: absolute;
+    top: 60px;
+    right: 50%;
+    transform: translateX(50%);
+}
+
+#header-one{
+	    padding: 20px 0;
+}
+
+.content{
+
+}
+
+.content p{text-align: center;
+    text-transform: uppercase;
+	
+}
+
+.btn{
+	    text-align: center;
+	        padding-bottom: 50px;
+
+}
+.btn a{
+	     background: #2ECC71;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 16px;
+    color: #fff;
+    padding: 10px 8px
+}
+
+
+#fotter{
+
+}
+
+#btn2{}
